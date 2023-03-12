@@ -1,4 +1,3 @@
-
 print('Bienvenido al programa de gestion de inventarios')
 cantidad = []
 productos = []
